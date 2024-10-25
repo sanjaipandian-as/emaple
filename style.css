@@ -1,0 +1,385 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+.parent{
+    display: flex;
+}
+ul{
+    padding: 0%;
+}
+.left{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    width: 17%;
+    align-self: flex-end;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding-top: 50px;
+    padding-bottom: 120px;
+    
+}
+.slogo{
+    height:65px;
+    width: 200px;
+    margin-top: 15px;
+    
+}
+.lhome{
+    width: 25px;
+    padding-top: 20px;
+    margin-right: -12px;
+}
+
+.lsearch{
+    width: 25px;
+    padding-top: 20px;
+    margin-right: -12px;
+    
+}
+.llib{
+    width: 25px;
+    padding-top: 20px;
+    margin-right: 12px;
+  }
+  .lcreate{
+    width: 25px;
+    padding-top: 50px;
+    margin-right: -15px;
+}
+.llike{
+    width: 25px;
+    padding-top: 20px;
+    margin-right: -15px;
+}
+.lepi{
+    width: 25px;
+    padding-top: 20px;
+    margin-right: -19px;
+}
+.install{
+    width: 30px;
+    padding-top: 20px;
+    margin-left: -25px;
+}
+
+.ahome{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+}
+body{
+    font-family: 'DM sans','sans serif';
+    font-weight: 500;
+    font-size: larger;
+}
+.asearch{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+   
+}
+.alib{
+    padding: 20px;
+    text-decoration: none;
+   color: white;
+   
+}
+.fav{
+    color: white;
+    padding-left: -9px;
+    margin-left: -8px;
+    
+}
+.right{
+    display: flex;
+    background-color: rgb(33, 31, 31);
+    width: 110%;
+    margin-left: 8px;
+    margin-top:-20px;
+    flex-direction: column;
+}
+.topbutA{
+   display: flex;
+}
+.topbut{
+    width: 150px;
+    height: 60px;
+    margin-top: 35px;
+    margin-left: 40px;
+}
+.topbut1{
+    width: 190px;
+    height: 60px;
+    margin-top: 35px;
+    margin-left: 70%;
+}
+
+.h21{
+    padding-left: 35px;
+    color: white;
+}
+.gmgm{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+}
+.gm1{
+   display: flex;
+   align-self: baseline;
+    width: 30%;
+   background-color: rgb(68, 65, 65);
+   margin-left: 25px;
+   border-radius: 7px;
+}
+.gm2{
+    display: flex;
+  align-self: baseline;
+     width: 30%;
+        background-color: rgb(68, 65, 65);
+    margin-left: 40px;
+    border-radius: 7px;
+ }
+ .gm3{
+    display: flex;
+  align-self: baseline;
+     width: 30%;
+        background-color: rgb(68, 65, 65);
+    margin-left: 40px;
+    border-radius: 7px;
+ }
+ .gm4{
+    display: flex;
+  align-self: baseline;
+     width: 30%;
+        background-color: rgb(68, 65, 65);
+    margin-left: 40px;
+    border-radius: 7px;
+ }
+ .gm5{
+    display: flex;
+    width: 22.5%;
+    height: 10%;
+    background-color: rgb(68, 65, 65);
+    margin-left: 25px;
+    border-radius: 7px;
+ }
+
+.glike{
+    height: 94px;
+    
+}
+.gnet{
+    height: 95px;
+}
+.gde{
+    width: 95px;
+}
+h4,h5{
+    padding-left: 15px;
+    color: white;
+    text-decoration: none;
+   }
+ .Syml{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+ } 
+.symlh{
+   display: flex;
+   flex-direction: row;
+    padding-left: 35px;
+    color: white;
+}
+.syml2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 94%;
+    padding-top: -40px;
+    margin-top: -41px;
+}
+.person1{
+    
+    padding-left: 15px;
+    padding-top: 15px;
+    width: 195px;
+    height: 300px;
+    margin-left: 15px;
+    background-color: rgb(15, 13, 13);
+}
+.person2{
+   
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 300px;
+    margin-left: 15px;
+    background-color: rgb(15, 13, 13);
+}
+.person3{
+   
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 300px;
+    margin-left: 15px;
+    background-color: rgb(15, 13, 13);
+}
+.person4{
+   
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 300px;
+    margin-left: 15px;
+    background-color: rgb(15, 13, 13);
+}
+.person5{
+   
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 300px;
+    margin-left: 15px;
+    background-color: rgb(15, 13, 13);
+}
+.person6{
+   
+    padding-left: 15px;
+    padding-top: 15px;
+    height: 300px;
+    margin-left: 15px;
+   
+    background-color: rgb(15, 13, 13);
+}
+.perm{
+    width: 90%;
+}
+.perme{
+    width: 90%;
+}
+.perwo{
+    width: 90%;
+}
+.peras{
+    width: 90%;
+}
+.persom{
+    width: 90%;
+}
+.permd{
+    width: 90%;
+}
+
+.perh1{
+    padding-left: 2px;
+}
+
+.perh2{
+    padding-left: 2px;
+}
+.perh3{
+    padding-left: 7px;
+    
+}
+.perh4{
+    padding-left: 2px;
+}
+.perh5{
+    padding-left: 2px;
+}
+.perh6{
+    padding-left: 1px;
+}
+.pera2{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.pera3{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.pera4{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.pera5{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.pera6{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.pera1{
+    color: darkgrey;
+    margin-top: -20px;
+}
+.thalaivan{
+    position: fixed;
+    bottom: 0;
+}
+.bottom{
+    display: flex;
+    width: 100%;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 15px;
+    margin-left: -8px;
+    background-color:rgb(15, 13, 13);
+   
+   
+}
+.bmi{
+    width: 85px;
+    height: 80px;
+}
+.bma{
+    display: flex;
+    align-items: flex-end;
+    margin-left: -135px;
+    color: darkgrey;
+}
+.bml{
+    display: flex;
+    padding-left: 85px;
+    padding-top: 35px;
+    width: 25px;
+    height: 25px;    
+}
+.bmpo{
+    display: flex;
+    flex-direction: row;
+    width: 800px;
+    height: 85px;
+    padding-left: 100px;
+}
+.bmro{
+    display: flex;
+    flex-direction: row;
+    width: 300px;
+    padding-left: 25px;
+    height: 30px;
+    padding-top: 35px;
+}
+.last{
+   display: flex;
+    width: 110%;
+    height: 29px;
+    margin-left: -8px;
+    background-color: rgb(0, 243, 93);
+}
+.uyir{
+    display: flex;
+    flex-direction: row;
+    padding-top: -4px;
+    color: black;
+    align-items: flex-end;
+   margin-left: -175px;
+}
+.lar{
+    transform: rotate(180deg);
+    margin-top: -24px;
+    width: 35px;
+    height: 40px;
+    align-items: flex-end;
+    padding-right: 1286px;
+}
